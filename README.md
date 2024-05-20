@@ -1,10 +1,4 @@
 # Satria_Data_2024
-Big Data Challenge 2024
-
-Satria Data Logo Satria Data
-Big Data Challenge
-Deskripsi Soal :
-Petunjuk Teknis Babak Penyisihan 
 
 Big Data Challenge Satria Data 2024 
 
